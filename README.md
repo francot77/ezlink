@@ -1,6 +1,7 @@
 #EZLink
 URLShortener Project
 
-![image](https://github.com/francot77/ezlink/assets/69086232/8d5b4e60-38bc-4251-b26b-2d8582896253)
+![image](https://github.com/francot77/ezlink/assets/69086232/13ba94ae-f72f-47df-ab9a-628b5b956c76)
+
 
 In deployment stage
